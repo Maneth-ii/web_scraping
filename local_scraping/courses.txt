@@ -1,0 +1,6 @@
+<h5 class="card-title">Python for beginners</h5>
+<h5 class="card-title">Python Web Development</h5>
+<h5 class="card-title">Python Machine Learning</h5>
+<h5 class="card-title">Python for beginners</h5>
+<h5 class="card-title">Python Web Development</h5>
+<h5 class="card-title">Python Machine Learning</h5>

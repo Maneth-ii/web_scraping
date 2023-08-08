@@ -1,0 +1,20 @@
+ 
+
+<a href="/live-cricket-scores/72858/wi-vs-ind-3rd-t20i-india-tour-of-west-indies-2023" target="_self" title="West Indies v India - 3rd T20I"> <div class="cb-mtch-crd-hdr cb-font-10"> <div class="cb-col-90 cb-color-light-sec cb-ovr-flo" title="3rd T20I • India tour of West Indies, 2023">3rd T20I • India tour of West Indies, 2023</div> <div class="cb-card-match-format text-center text-white cb-tst-tg-wdt-34 cb-mtch-frmt-bg-t20">T20I</div> </div> <div> <div class="cb-hmscg-bat-txt"><div class="cb-col-100 cb-ovr-flo cb-hmscg-tm-bat-scr cb-font-14"><div class="cb-hmscg-tm-nm-img"><img class="cb-img-rad-0" height="12px" src="/a/img/v1/25x18/i1/c172124/west-indies.jpg" title="West Indies" width="18px"/></div><span class="text-normal" title="West Indies">West Indies</span></div></div> <div class="cb-hmscg-bat-txt"><div class="cb-col-100 cb-ovr-flo cb-hmscg-tm-bwl-scr cb-font-14"><div class="cb-hmscg-tm-nm-img"><img class="cb-img-rad-0" height="12px" src="/a/img/v1/25x18/i1/c172115/india.jpg" title="India" width="18px"/></div><span class="text-normal" title="India">India</span></div></div> <div class="cb-ovr-flo cb-mtch-crd-time cb-font-12 cb-text-preview" ng-bind="'Today, ' + (1691505000000 |date: 'hh:mm a')" ng-if="(1691505000000 | date:'dd/MM/yyyy') == (1691502005000 | date:'dd/MM/yyyy')"></div> <div class="cb-ovr-flo cb-mtch-crd-time cb-font-12 cb-text-preview" ng-bind="1691505000000 |date: 'EEEE, d MMM, hh:mm a'" ng-if="(1691505000000 | date:'dd/MM/yyyy') != (1691502005000 | date:'dd/MM/yyyy')"></div> </div> </a>
+
+ 
+
+<div class="cb-col-100 cb-match-footer text-right"> <div class="cb-match-footer-body"> <div> <a class="cb-match-footer-link text-hvr-underline cb-font-10" href="/cricket-fantasy-handbook/72858/wi-vs-ind-3rd-t20i-india-tour-of-west-indies-2023"> fantasy handbook </a> </div> <div> <a class="cb-match-footer-link text-hvr-underline cb-font-10" href="cricket-series/6582/india-tour-of-west-indies-2023/matches"> schedule </a> </div> </div> </div>
+
+ 
+
+ 
+
+<a href="/live-cricket-scores/72858/wi-vs-ind-3rd-t20i-india-tour-of-west-indies-2023" target="_self" title="West Indies v India - 3rd T20I"> <div class="cb-mtch-crd-hdr cb-font-10"> <div class="cb-col-90 cb-color-light-sec cb-ovr-flo" title="3rd T20I • India tour of West Indies, 2023">3rd T20I • India tour of West Indies, 2023</div> <div class="cb-card-match-format text-center text-white cb-tst-tg-wdt-34 cb-mtch-frmt-bg-t20">T20I</div> </div> <div> <div class="cb-hmscg-bat-txt"><div class="cb-col-100 cb-ovr-flo cb-hmscg-tm-bat-scr cb-font-14"><div class="cb-hmscg-tm-nm-img"><img class="cb-img-rad-0" height="12px" src="/a/img/v1/25x18/i1/c172124/west-indies.jpg" title="West Indies" width="18px"/></div><span class="text-normal" title="West Indies">West Indies</span></div></div> <div class="cb-hmscg-bat-txt"><div class="cb-col-100 cb-ovr-flo cb-hmscg-tm-bwl-scr cb-font-14"><div class="cb-hmscg-tm-nm-img"><img class="cb-img-rad-0" height="12px" src="/a/img/v1/25x18/i1/c172115/india.jpg" title="India" width="18px"/></div><span class="text-normal" title="India">India</span></div></div> <div class="cb-mtch-crd-state cb-ovr-flo cb-font-12 cb-text-preview" title="West Indies opt to bat">West Indies opt to bat</div> </div> </a>
+
+ 
+
+<div class="cb-col-100 cb-match-footer text-right"> <div class="cb-match-footer-body"> <div> <a class="cb-match-footer-link text-hvr-underline cb-font-10" href="/cricket-fantasy-handbook/72858/wi-vs-ind-3rd-t20i-india-tour-of-west-indies-2023"> fantasy handbook </a> </div> <div> <a class="cb-match-footer-link text-hvr-underline cb-font-10" href="cricket-series/6582/india-tour-of-west-indies-2023/matches"> schedule </a> </div> </div> </div>
+
+ 
+

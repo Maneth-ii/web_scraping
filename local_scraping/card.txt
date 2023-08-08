@@ -1,0 +1,3 @@
+20$ - Python for beginners - If you are new to Python, this is the course that you should buy! 
+50$ - Python Web Development - If you feel enough confident with python, you are ready to learn how to create your own website! 
+100$ - Python Machine Learning - Become a Python Machine Learning master! 
